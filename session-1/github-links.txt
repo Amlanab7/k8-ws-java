@@ -1,0 +1,3 @@
+inventory-service-- https://hub.docker.com/repository/docker/amlanaab7/inventory-service/general
+
+order-service-- https://hub.docker.com/repository/docker/amlanaab7/order-service/general
